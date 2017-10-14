@@ -26,14 +26,14 @@ User Temp | data-tacc-work-uname | * | User-specific high speed storage | <uname
 * Path (relative to original upload conventions)
 * Public apps to process
 * Output naming conventions
-* Who
+* Participants
 * Status
 
 [Slack #data-etl channel][3]
 
 ## Sharing conventions
 
-Following [Agave API][1] ACL model for portability and future-proofness.
+Following [Agave API][1] ACL model for portability and future-proofness. [Tutorials abound][5] for its application and usage in SD2. 
 
 ### Permissions
 
@@ -75,7 +75,9 @@ TrimSortmeRNA | `trimsortmerna-0.1.0` | maverick,wrangler | Trimmomatic + rRNA f
 
 Request access and join development effort at [Reactors-ETL Github Repo][4]
 
-[1]: https://apidocs/
-[2]: goog.le/merp
+[1]: https://apidocs.sd2e.org/
+[2]: https://docs.google.com/spreadsheets/d/1qY_XAcrOWEQygmCiUu7_6k_2W0N_i_5F7O7bNMfFbEU/edit#gid=0
 [3]: https://sd2e.slack.com/messages/C6W25F0LQ/
 [4]: https://github.com/SD2E/reactors-etl/
+[5]: https://merp.co/
+
